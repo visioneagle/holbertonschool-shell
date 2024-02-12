@@ -1,2 +1,2 @@
-#!/bin/bas
-ls -ali
+#!/bin/bash
+ls -al
