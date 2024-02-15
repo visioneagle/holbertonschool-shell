@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'cC'
+modified=$(tr -d 'cC' <<< "$input")
