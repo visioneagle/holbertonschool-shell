@@ -1,2 +1,2 @@
 #!/bin/bash
-odified=$(tr -d 'cC' <<< "$input")
+echo "Chicago" | tr -d 'C' | tr -d 'c' 
